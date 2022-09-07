@@ -1,4 +1,4 @@
-# Veri-Yapilari Iki-Yonlu-Dairesel-Bagli-Liste
+# Veri Yapilari Iki Yonlu Dairesel Bagli Liste
 
 ```diff
 Ödevin açıklaması Odev1.pdf'de  rapor dosyası doc içindedir.
